@@ -19,7 +19,7 @@ Lighthouse BnB is an app that will revolutionize the travel industry. It will al
 - Postgress
 
 ## Screenshots
-!["Reservation data"] (https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/reservations_data.png)
-!["Search data"] (https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/search_data.png)
-!["Search results being logged in"] (https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/searche_results_user.png)
-!["Search results as annonymous] (https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/serch_results_anonymous.png)
+!["Reservation data"](https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/reservations_data.png)
+!["Search data"](https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/search_data.png)
+!["Search results being logged in"](https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/searche_results_user.png)
+!["Search results as annonymous](https://github.com/aiefymenko/LightBnB/blob/main/LightBnB/docs/serch_results_anonymous.png)
