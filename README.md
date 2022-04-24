@@ -6,7 +6,7 @@ Lighthouse BnB is an app that will revolutionize the travel industry. It will al
 
 1. Clone <https://github.com/aiefymenko/LightBnB> repository onto your local device.
 2. Install dependencies using the `npm install` command.
-3. Start the web server using the `npm run local` command. The app will be served at <http://localhost:8080/>.
+3. Start the web server using the `npm run local` command. The app will be served at <http://localhost:3000/>.
 4. Go to <http://localhost:3000/> in your browser.
 
 ## Dependencies
